@@ -1,0 +1,11 @@
+header {
+    border-bottom: solid 1.5px gray;
+}
+  
+a:hover {
+    color: black;
+}
+
+.btn {
+    background-color: green !important;
+}
